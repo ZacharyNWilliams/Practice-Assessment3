@@ -1,0 +1,14 @@
+.shape{
+    border: solid 2px black;
+    display: inline-block;
+    text-align: center;
+    margin-right: 10px;
+    
+}
+
+.circle {
+    border-radius: 50%;
+  }
+
+
+  
